@@ -1,0 +1,50 @@
+# Compiled object files
+*.o
+
+# Compiled static libraries
+*.a
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Editor files
+*.swp
+*.swo
+
+# Backup files
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build directories
+/build/
+/bin/
+
+# IDE and editor-specific files
+
+.idea/
+*.code-workspace
+
+# Debug files
+*.dSYM
+*.core
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other system files
+.DS_Store
+Thumbs.db
